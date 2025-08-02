@@ -1,0 +1,12 @@
+{
+  "name": "chai",
+  "version": "1.0.0",
+  "description": "a backend code",
+  "license": "ISC",
+  "author": "vaishnavi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
